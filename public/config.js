@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '圆周率的监控面板',
+  SiteName: '监控面板',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
