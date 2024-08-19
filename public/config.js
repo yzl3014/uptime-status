@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: "Uptime View",
+  SiteName: "Services Status",
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -10,10 +10,10 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 50,
+  CountDays: 30,
 
   // 是否显示检测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 导航栏菜单
   Navi: [
