@@ -23,6 +23,7 @@ function App() {
           ))}
         </div>
         <div id='footer'>
+          <a href="https://icp.gov.moe/?keyword=20246666" target="_blank">萌ICP备20246666号</a>
           <p>基于 <Link to='https://uptimerobot.com/' text='UptimeRobot' /> 接口制作，检测频率 5 分钟</p>
           <p>&copy; 2020 <Link to='https://status.org.cn/' text='STATUS.ORG.CN' />, Version {Package.version}</p>
         </div>
