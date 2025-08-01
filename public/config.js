@@ -3,6 +3,8 @@ window.Config = {
   // 显示标题
   SiteName: "Services Status",
 
+  ApiDomain: 'uptimerobot-api.zjsxs16.workers.dev',
+
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
